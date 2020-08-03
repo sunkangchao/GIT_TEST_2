@@ -5,5 +5,6 @@ public class Test2 {
         System.out.println("hello-world2");
         System.out.println("测试回滚");
         System.out.println("测试使用命令提交到github");
+        System.out.println("测试分支");
     }
 }
