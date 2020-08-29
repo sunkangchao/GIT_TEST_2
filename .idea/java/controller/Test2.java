@@ -15,6 +15,7 @@ public class Test2 {
         System.out.println("什么情况下不需要解决冲突");
         System.out.println("被合并的分支上的原代码没有被修改过，只是增加了");
         System.out.println("slave3分支对远程slave1分支做了一笔提交。");
+        System.out.println("git的学习在此告一段落了。");
         }
 }
 
