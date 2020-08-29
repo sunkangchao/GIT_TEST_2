@@ -7,6 +7,7 @@ public class Test2 {
         System.out.println("测试使用命令提交到github");
         System.out.println("测试分支");
         System.out.println("这个是什么情况呢？并不是最新的呀。");
+        System.out.println("slave5分支对远程分支slave1推送了一次修改。");
     }
 }
 
